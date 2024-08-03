@@ -1,4 +1,27 @@
-.App {
+
+.img{
+  height: 390px;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +58,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
